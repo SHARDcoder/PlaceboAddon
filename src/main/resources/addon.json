@@ -1,5 +1,6 @@
 {
   "name":"Placebo Addon",
   "version":"1.0.0",
-  "mainClass":"me.shardcoder.addon.Placebo"
+  "mainClass":"me.shardcoder.addon.Placebo",
+  "desc":"Triple FPS OMG [Not Clickbait]"
 }
